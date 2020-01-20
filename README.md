@@ -1,2 +1,2 @@
 # Devops
-Development and operations
+Development and operations- set of practices and services
